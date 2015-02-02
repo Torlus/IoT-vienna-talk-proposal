@@ -17,7 +17,7 @@ building.
 
 Identity, Security and Privacy are still some of the main subjects of worry with Internet as we know it. Forseeing it populated with millions of connected low-end hardware devices, where security will be traded-off for efficiency raises even more major concerns.
 
-However, Security, which is the foundation upon which Identity and Privacy can be enforced, as it is more a state of mind and a set of good practices and education, than a technical challenge.
+However, Security, which is the foundation upon which Identity and Privacy can be enforced, is more a state of mind and a set of good practices and education, than a technical challenge.
 
 **Keywords**: Adaptive Security, Decentralization, Secret Sharing.
 
