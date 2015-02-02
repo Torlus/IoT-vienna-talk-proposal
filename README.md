@@ -19,6 +19,8 @@ Identity, Security and Privacy are still some of the main subjects of worry with
 
 However, Security, which is the foundation upon which Identity and Privacy can be enforced, as it is more a state of mind and a set of good practices and education, than a technical challenge.
 
+**Keywords**: Adaptive Security, Decentralization, Secret Sharing.
+
 # Language
 
 English
@@ -56,9 +58,9 @@ Gregory Estrade
 
 # Picture of the speaker
 
-![Hats on](http://photos2.meetupstatic.com/photos/member/d/0/8/8/member_243473384.jpeg)
+![Hats on](https://raw.githubusercontent.com/Torlus/IoT-vienna-talk-proposal/master/hats_off.jpeg)
 
-![Hats off](http://photos2.meetupstatic.com/photos/member/8/4/a/a/member_191493962.jpeg)
+![Hats off](https://raw.githubusercontent.com/Torlus/IoT-vienna-talk-proposal/master/hats_on.jpeg)
 
 # Speaker's short CV
 
@@ -96,5 +98,9 @@ gregory.estrade@lyra-network.com
 
 It is in French, but it is also:
 - The latest one.
-- The one I am the least ashamed of
-- One of the few that had the chance of getting a decent recording, apart from the "ssssshh" noise of the ill-tuned microphone, at the beginning of the talk.
+- The one I am the least ashamed of.
+- One of the few that had the chance to get a decent recording, apart from the "ssssshh" noise of the ill-tuned microphone, at the beginning of the talk.
+
+[Talk abstract](http://2014.capitoledulibre.org/programme/presentation/83/).
+
+[Direct link to video](http://videos2014.capitoledulibre.org/openhardware-embarque/estrade-mixed-fpga-software-design-verilator.mp4).
