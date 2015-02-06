@@ -62,6 +62,10 @@ Gregory Estrade
 
 ![Hats off](https://raw.githubusercontent.com/Torlus/IoT-vienna-talk-proposal/master/hats_on.jpeg)
 
+![Moar Hatz](https://raw.githubusercontent.com/Torlus/IoT-vienna-talk-proposal/master/hat_pro.jpg)
+
+![Weirdo](https://raw.githubusercontent.com/Torlus/IoT-vienna-talk-proposal/master/weird.jpg)
+
 # Speaker's short CV
 
 Development Director at Lyra-Network, a successful company specialised in financial transactions processing and e-commerce payment solutions.
